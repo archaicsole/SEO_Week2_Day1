@@ -1,13 +1,13 @@
-This python application has the following features/functions:
+# Calculator 
 
-  1.) Add
+This is a simple python calculator app.
 
-  2.) Subtract
+## Features
 
-  3.) Multiplication
+- Additon, Subtraction
+- Multiplication, Division
+- Powers, Square Root
 
-  4.) Division
+## Author
 
-  5.) Powers
-  
-  6.) Square Root
+Angel Rodriguez
